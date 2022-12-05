@@ -7,7 +7,7 @@
 * MySQL for database
 * Python Tkinter for GUI
 ### Status
-* Finsihed
+* Finished
 ## Demo Video
 
 https://user-images.githubusercontent.com/55287269/205674395-4a193566-254d-4141-a654-50f5e7969b95.mp4
